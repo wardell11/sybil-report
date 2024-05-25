@@ -5,28 +5,28 @@ Each cluster is independent with its own description and argumentation. Creating
 # Methodology & Walkthrough
 We collected 2.5 million CEX deposit addresses from Binance, Coinbase, Kucoin, Bybit, and OKX using explorers and Dune SQL. Filtered addresses received funds from at least 7 addresses interacting regularly with Layer Zero. Clusters of 7-300 addresses sharing the same CEX deposit address were formed using a script. An address had to link to at least 4 other cluster addresses to join. Clusters with fewer than 20 addresses were discarded.
 
-First Layer of Detection
+# First Layer of Detection
 Automated scripts identified clusters with a common CEX deposit address and interlinked addresses. This method, although robust, includes some false positives.
 
-Second Layer of Detection
+# Second Layer of Detection
 Manually scanned each address to remove false positives and added on-chain arguments. This ensures cluster validity and minimizes false positives, using resources like LayerZero Scan, Dune, Debank, Arkham, and Etherscan.
 
-Activity Prior to Snapshot
+# Activity Prior to Snapshot
 Screened activities across 14 blockchains including Ethereum, Optimism, BSC, Polygon, Arbitrum, Gnosis, Linea, Scroll, Zksync, Moonbeam, Moonriver, FTM, Base, and Celo.
 
-Note on Arkham Diagrams
+# Note on Arkham Diagrams
 Links to Arkham diagrams are often missing as Arkham supports only 7 out of these 14 blockchains.
 
-Reward Address (If Eligible)
+# Reward Address (If Eligible)
  (This is a fresh address).
 
-Table of Contents
+# Table of Contents
 Details
 
 Clusters are independent, with descriptions including the shared CEX deposit address, an Arkham diagram, and the second layer of detection.
 
-Reported Addresses & Description
-CLUSTER 1
+# Reported Addresses & Description
+# CLUSTER 1
 The addresses of the cluster share the same Binance deposit address 0x926e1F027351f3a216bA2789711aedE4544467B8. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
 0x220a6f204a8f8e6af9397c14ed019df08843ad3a
@@ -65,6 +65,14 @@ The addresses of the cluster share the same Binance deposit address 0x926e1F0273
 0x25d45f33837122bbd9e70e46d072f1a0f8bb8d95
 ```
 <img width="653" alt="Capture d’écran 2024-05-25 à 03 24 17" src="https://github.com/wardell11/sybil-report/assets/170775813/f2514301-8918-4360-9c95-d0b729273429">
+The addresses all have the same on-chain activity. For example, their latest L0 interaction is exactly the same, the same dapps at the same time in the same order: Stargate, Orderly Network, Merkly.
+<img width="1414" alt="Capture d’écran 2024-05-25 à 03 14 07" src="https://github.com/wardell11/sybil-report/assets/170775813/98799909-f674-4fc7-a5a0-896776d3351f">
+<img width="1440" alt="Capture d’écran 2024-05-25 à 03 14 42" src="https://github.com/wardell11/sybil-report/assets/170775813/b549e9e3-9d94-4bd9-a5cb-0490cd09e7ca">
+<img width="1440" alt="Capture d’écran 2024-05-25 à 03 15 08" src="https://github.com/wardell11/sybil-report/assets/170775813/9d51e9ac-8214-4995-86b8-ab31f3869a42">
+<img width="1440" alt="Capture d’écran 2024-05-25 à 03 15 30" src="https://github.com/wardell11/sybil-report/assets/170775813/24e216f8-6116-4682-87a2-642ef408f90b">
+<img width="1440" alt="Capture d’écran 2024-05-25 à 03 20 32" src="https://github.com/wardell11/sybil-report/assets/170775813/b28fe81b-3780-4411-9580-c53724dcedd2">
+<img width="1440" alt="Capture d’écran 2024-05-25 à 03 20 53" src="https://github.com/wardell11/sybil-report/assets/170775813/3dddd3c5-7991-4c28-8b9e-baa7625c5713">
+<img width="1440" alt="Capture d’écran 2024-05-25 à 03 21 15" src="https://github.com/wardell11/sybil-report/assets/170775813/7b12eec8-6bb2-4f54-b7bb-106533b66c0a">
 
 
 
