@@ -76,7 +76,9 @@ The addresses all have the same on-chain activity. For example, their latest L0 
 <img width="1440" alt="Capture d’écran 2024-05-25 à 03 20 53" src="https://github.com/wardell11/sybil-report/assets/170775813/3dddd3c5-7991-4c28-8b9e-baa7625c5713">
 <img width="1440" alt="Capture d’écran 2024-05-25 à 03 21 15" src="https://github.com/wardell11/sybil-report/assets/170775813/7b12eec8-6bb2-4f54-b7bb-106533b66c0a">
 
-
+etc...
+The addresses also all have similar ENS.
+The address share the same CEX deposit address, are part of a cluster with multiple links between one another, and have the same on-chain activity. This is a big scale sybil operation, probably the result of scripts.
 
 
 
