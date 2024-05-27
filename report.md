@@ -202,6 +202,7 @@ As you can see : deposit 100$ + add liquidity 100$ on Stargate with all cluster 
 </details>
 
 
- We can see on Dune than all addresse have around 40-50 transactions with a total amount of 18.000$ and created 610 ago.
- <img width="964" alt="Capture d’écran 2024-05-28 à 00 06 47" src="https://github.com/wardell11/sybil-report/assets/170775813/8eea0fff-94fa-41bb-8101-536c9a43b231">
+ We can see on Dune than all addresse have around 40-50 transactions with the same total amount of 18.000$ and created 610 ago.
+<img width="958" alt="Capture d’écran 2024-05-28 à 00 26 17" src="https://github.com/wardell11/sybil-report/assets/170775813/76064f73-fb5c-43ab-99ba-1a2e25bb7cbb">
 
+In conclusion, Same CEX deposit addresses, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop(100$ deposit + Add liq on stargate with all addresses). This is a clear sybil cluster.
