@@ -113,6 +113,8 @@ The first 12 addresses of the cluster share the same Binance deposit address 0x9
 ```
 The addresses share the same on-chain activity. They execute the same transaction at the same time in order to farm airdrops accross 20 wallets. For example, they all used Stargate to bridge and send token same amount of token (100$) to other cluster wallet addresses during the same day (many of them during June 25 2023) and stop using Layer 0 technology after that.
 
+<details>
+
 0xb5e9a9ca597f4bec5bfe34b4739cc8b2820675bd
 <img width="974" alt="Capture d’écran 2024-05-27 à 21 59 13" src="https://github.com/wardell11/sybil-report/assets/170775813/71261448-aad9-4a7d-9b68-4afd4e2cf217">
 
@@ -133,6 +135,10 @@ The addresses share the same on-chain activity. They execute the same transactio
 
 0x42eee9dddd3302a19816554fab88fc560acc0efa
 <img width="974" alt="Capture d’écran 2024-05-27 à 22 17 59" src="https://github.com/wardell11/sybil-report/assets/170775813/2c0f17a2-4db2-46b5-81c1-813781854039">
+
+
+</details>
+
 
 Same activity for all addresses of the cluster.
 
