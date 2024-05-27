@@ -160,6 +160,7 @@ The first 12 addresses of the cluster share the same Binance deposit address 0x6
 0x7a32c64265209562c004c8298e7ee0edcff07c83
 ```
 <img width="605" alt="Capture d’écran 2024-05-27 à 23 41 46" src="https://github.com/wardell11/sybil-report/assets/170775813/da7ddd8e-39b0-4bf0-81b9-91a9fc460a5a">
+
 The addresses have the same on-chain activity. For example, their L0 interaction follow the same pattern. They interact with the same dapps in the same order in the same timespans. 
 As you can see : deposit 100$ + add liquidity 100$ on Stargate with all cluster addresses. 
 
