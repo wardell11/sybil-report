@@ -1,32 +1,4 @@
-This report contains 22 clusters, exceeding the character limit for issues. Later clusters and descriptions are moved to an external repository, which will remain unedited after submission.
-
-Each cluster is independent with its own description and argumentation. Creating an issue per cluster is not possible due to GitHub’s spam flagging for numerous open issues.
-
-# Methodology & Walkthrough
-We collected 2.5 million CEX deposit addresses from Binance, Coinbase, Kucoin, Bybit, and OKX using explorers and Dune SQL. Filtered addresses received funds from at least 7 addresses interacting regularly with Layer Zero. Clusters of 7-300 addresses sharing the same CEX deposit address were formed using a script. An address had to link to at least 4 other cluster addresses to join. Clusters with fewer than 20 addresses were discarded.
-
-# First Layer of Detection
-Automated scripts identified clusters with a common CEX deposit address and interlinked addresses. This method, although robust, includes some false positives.
-
-# Second Layer of Detection
-Manually scanned each address to remove false positives and added on-chain arguments. This ensures cluster validity and minimizes false positives, using resources like LayerZero Scan, Dune, Debank, Arkham, and Etherscan.
-
-# Activity Prior to Snapshot
-Screened activities across 14 blockchains including Ethereum, Optimism, BSC, Polygon, Arbitrum, Gnosis, Linea, Scroll, Zksync, Moonbeam, Moonriver, FTM, Base, and Celo.
-
-# Note on Arkham Diagrams
-Links to Arkham diagrams are often missing as Arkham supports only 7 out of these 14 blockchains.
-
-# Reward Address (If Eligible)
- (This is a fresh address).
-
-# Table of Contents
-Details
-
-Clusters are independent, with descriptions including the shared CEX deposit address, an Arkham diagram, and the second layer of detection.
-
-# Reported Addresses & Description
-# CLUSTER 1
+# CLUSTER 18
 The addresses of the cluster share the same Binance deposit address 0x926e1F027351f3a216bA2789711aedE4544467B8. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
 0x220a6f204a8f8e6af9397c14ed019df08843ad3a
@@ -82,10 +54,9 @@ The addresses all have the same on-chain activity. For example, their latest L0 
 </details>
 
 
-The addresses also all have similar ENS.
 The address share the same CEX deposit address, are part of a cluster with multiple links between one another, and have the same on-chain activity. This is a big scale sybil operation, probably the result of scripts.
 
-# cluster 2
+# cluster 19
 
 The first 12 addresses of the cluster share the same Binance deposit address 0x9649E21c2e4E16A3C836adcdada8e26Cd8Cc197d. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
@@ -146,7 +117,7 @@ Also, you can see on Dune that all addresses have the same number of transaction
 
 Same CEX deposit address, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop. This is a clear sybil cluster.
 
-# cluster 3
+# cluster 20
 The first 12 addresses of the cluster share the same Binance deposit address 0x6ff197905601F6b8F59e3F71849e6a060D1dfd97. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
 0x1ded3c31ec30a1c651c7d1eca0f7db3ad76d15ef
