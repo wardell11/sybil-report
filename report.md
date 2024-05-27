@@ -109,3 +109,28 @@ The addresses share the same on-chain activity. They execute the same transactio
 
 0xb5e9a9ca597f4bec5bfe34b4739cc8b2820675bd
 <img width="974" alt="Capture d’écran 2024-05-27 à 21 59 13" src="https://github.com/wardell11/sybil-report/assets/170775813/71261448-aad9-4a7d-9b68-4afd4e2cf217">
+
+0x6776a0e5b5566a5c1be3e6edeeb6824da0448f21
+<img width="1033" alt="Capture d’écran 2024-05-27 à 22 12 06" src="https://github.com/wardell11/sybil-report/assets/170775813/5fa1d40b-a20c-430c-abfe-56157804ca6f">
+
+0x2dfb59b81d0cb5b7c984bcc2e262dc9fbee74298
+<img width="969" alt="Capture d’écran 2024-05-27 à 22 13 28" src="https://github.com/wardell11/sybil-report/assets/170775813/00337592-8c0b-4d54-a5cb-f7f05fe2d68a">
+
+0xb90dccdcc5694938dbf2cbadd809448c74e5bcec
+<img width="977" alt="Capture d’écran 2024-05-27 à 22 14 58" src="https://github.com/wardell11/sybil-report/assets/170775813/ff3f365f-56a8-480e-a235-ac6f1eebd343">
+
+0xd608f0c48411225b43e0c7a13021ae72d806c6a8
+<img width="972" alt="Capture d’écran 2024-05-27 à 22 15 49" src="https://github.com/wardell11/sybil-report/assets/170775813/389ded77-5839-4e00-a40a-ab765cb10941">
+
+0x00a75ba3ea17b3c2782f0756022d1452c43ba7ca
+<img width="968" alt="Capture d’écran 2024-05-27 à 22 17 03" src="https://github.com/wardell11/sybil-report/assets/170775813/0a2f87f0-124c-412e-a4b7-e0151fff859f">
+
+0x42eee9dddd3302a19816554fab88fc560acc0efa
+<img width="974" alt="Capture d’écran 2024-05-27 à 22 17 59" src="https://github.com/wardell11/sybil-report/assets/170775813/2c0f17a2-4db2-46b5-81c1-813781854039">
+
+Same activity for all addresses of the cluster.
+
+Also, you can see on Dune that all addresses have the same number of transactions with the same amount and were created 523 days ago.
+<img width="956" alt="Capture d’écran 2024-05-27 à 22 20 13" src="https://github.com/wardell11/sybil-report/assets/170775813/fe0a514e-b481-42f6-ab5e-0177258b702e">
+
+Same CEX deposit address, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop. This is a clear sybil cluster.
