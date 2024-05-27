@@ -80,6 +80,32 @@ etc...
 The addresses also all have similar ENS.
 The address share the same CEX deposit address, are part of a cluster with multiple links between one another, and have the same on-chain activity. This is a big scale sybil operation, probably the result of scripts.
 
+# cluster 2
 
+The first 12 addresses of the cluster share the same Binance deposit address 0x9649E21c2e4E16A3C836adcdada8e26Cd8Cc197d. The rest are linked to numerous addresses of the cluster, multiple times.
+```
+0xb5e9a9ca597f4bec5bfe34b4739cc8b2820675bd
+0xd608f0c48411225b43e0c7a13021ae72d806c6a8
+0x2dfb59b81d0cb5b7c984bcc2e262dc9fbee74298
+0xbc84340c6329316f310679a7e4d48a8a6b65192e
+0xc6c4f5063f8f6424cac6bce801d9a25edcc4a426
+0xdae1a193639e2f113bdfe26a2cbc6b6e0e415fb8
+0x6776a0e5b5566a5c1be3e6edeeb6824da0448f21
+0x00a75ba3ea17b3c2782f0756022d1452c43ba7ca
+0xb90dccdcc5694938dbf2cbadd809448c74e5bcec
+0x42eee9dddd3302a19816554fab88fc560acc0efa
+0xd5d3a68d149783a6e4ed3c14e78a9f74b8e6ee6a
+0xecd40ff016c263a06ebf6958854fecadb2622818
+0x7a3e5a5640213898c5c657cae9b45f826c0b4896
+0x7713b0258952da63990a6b80bf2237878a9d1092
+0xcc4dd02e63d391e803aaa0cb01e454ff111eaef7
+0xa040b8bed171622a53a6181cbe9c11529d323652
+0x193605b78873b63c653c18d3aa1295efe1bcf97d
+0x7862a8f01a06f74a3d3111bad8f12fa1fc26921d
+0x8762fc4b59d71c6d06dcfbd856fe1b60bd4e7564
+0x0baf5dc796e95157411e0e3eaa4b6dd1d4b41537
+```
+The addresses share the same on-chain activity. They execute the same transaction at the same time in order to farm airdrops accross 20 wallets. For example, they all used Stargate to bridge and send token same amount of token (100$) to other cluster wallet addresses during the same day (many of them during June 25 2023) and stop using Layer 0 technology after that.
 
-
+0xb5e9a9ca597f4bec5bfe34b4739cc8b2820675bd
+<img width="974" alt="Capture d’écran 2024-05-27 à 21 59 13" src="https://github.com/wardell11/sybil-report/assets/170775813/71261448-aad9-4a7d-9b68-4afd4e2cf217">
