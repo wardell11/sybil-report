@@ -82,7 +82,6 @@ The addresses all have the same on-chain activity. For example, their latest L0 
 </details>
 
 
-etc...
 The addresses also all have similar ENS.
 The address share the same CEX deposit address, are part of a cluster with multiple links between one another, and have the same on-chain activity. This is a big scale sybil operation, probably the result of scripts.
 
