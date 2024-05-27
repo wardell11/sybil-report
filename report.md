@@ -1,4 +1,4 @@
-# CLUSTER 18
+# CLUSTER 17
 The addresses of the cluster share the same Binance deposit address 0x926e1F027351f3a216bA2789711aedE4544467B8. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
 0x220a6f204a8f8e6af9397c14ed019df08843ad3a
@@ -56,7 +56,7 @@ The addresses all have the same on-chain activity. For example, their latest L0 
 
 The address share the same CEX deposit address, are part of a cluster with multiple links between one another, and have the same on-chain activity. This is a big scale sybil operation, probably the result of scripts.
 
-# cluster 19
+# cluster 18
 
 The first 12 addresses of the cluster share the same Binance deposit address 0x9649E21c2e4E16A3C836adcdada8e26Cd8Cc197d. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
@@ -117,7 +117,7 @@ Also, you can see on Dune that all addresses have the same number of transaction
 
 Same CEX deposit address, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop. This is a clear sybil cluster.
 
-# cluster 20
+# cluster 19
 The first 12 addresses of the cluster share the same Binance deposit address 0x6ff197905601F6b8F59e3F71849e6a060D1dfd97. The rest are linked to numerous addresses of the cluster, multiple times.
 ```
 0x1ded3c31ec30a1c651c7d1eca0f7db3ad76d15ef
