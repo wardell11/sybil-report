@@ -81,7 +81,7 @@ The first 12 addresses of the cluster share the same Binance deposit address 0x9
 0x8762fc4b59d71c6d06dcfbd856fe1b60bd4e7564
 0x0baf5dc796e95157411e0e3eaa4b6dd1d4b41537
 ```
-The addresses share the same on-chain activity. They execute the same transaction at the same time in order to farm airdrops accross 20 wallets. For example, they all used Stargate to bridge and send token same amount of token (100$) to other cluster wallet addresses during the same day (many of them during June 25 2023) and stop using Layer 0 technology after that.
+The addresses share the same on-chain activity. They execute the same transactions at the same time in order to farm airdrops across 20 wallets. For example, they all used Stargate to bridge and send the same amount of tokens ($100) to other cluster wallet addresses on the same day (many of them on June 25, 2023) and stopped using Layer 0 technology afterward.
 
 <details>
 
@@ -112,10 +112,10 @@ The addresses share the same on-chain activity. They execute the same transactio
 
 Same activity for all addresses of the cluster.
 
-Also, you can see on Dune that all addresses have the same number of transactions with the same amount and were created 523 days ago.
+Also, you can see on Dune that all addresses have the same number of transactions with the same amount and created 523 days ago.
 <img width="956" alt="Capture d’écran 2024-05-27 à 22 20 13" src="https://github.com/wardell11/sybil-report/assets/170775813/fe0a514e-b481-42f6-ab5e-0177258b702e">
 
-Same CEX deposit address, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop. This is a clear sybil cluster.
+Same CEX deposit addresses, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop. This is a clear sybil cluster.
 
 # CLUSTER 19
 The first 12 addresses of the cluster share the same Binance deposit address 0x6ff197905601F6b8F59e3F71849e6a060D1dfd97. The rest are linked to numerous addresses of the cluster, multiple times.
