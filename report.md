@@ -67,6 +67,7 @@ The addresses of the cluster share the same Binance deposit address 0x926e1F0273
 <img width="653" alt="Capture d’écran 2024-05-25 à 03 24 17" src="https://github.com/wardell11/sybil-report/assets/170775813/f2514301-8918-4360-9c95-d0b729273429">
 
 The addresses all have the same on-chain activity. For example, their latest L0 interaction is exactly the same, the same dapps at the same time in the same order: Stargate, Orderly Network, Merkly.
+<details>
 
 <img width="1414" alt="Capture d’écran 2024-05-25 à 03 14 07" src="https://github.com/wardell11/sybil-report/assets/170775813/98799909-f674-4fc7-a5a0-896776d3351f">
 <img width="1440" alt="Capture d’écran 2024-05-25 à 03 14 42" src="https://github.com/wardell11/sybil-report/assets/170775813/b549e9e3-9d94-4bd9-a5cb-0490cd09e7ca">
@@ -75,6 +76,11 @@ The addresses all have the same on-chain activity. For example, their latest L0 
 <img width="1440" alt="Capture d’écran 2024-05-25 à 03 20 32" src="https://github.com/wardell11/sybil-report/assets/170775813/b28fe81b-3780-4411-9580-c53724dcedd2">
 <img width="1440" alt="Capture d’écran 2024-05-25 à 03 20 53" src="https://github.com/wardell11/sybil-report/assets/170775813/3dddd3c5-7991-4c28-8b9e-baa7625c5713">
 <img width="1440" alt="Capture d’écran 2024-05-25 à 03 21 15" src="https://github.com/wardell11/sybil-report/assets/170775813/7b12eec8-6bb2-4f54-b7bb-106533b66c0a">
+
+
+
+</details>
+
 
 etc...
 The addresses also all have similar ENS.
