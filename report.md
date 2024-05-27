@@ -134,3 +134,53 @@ Also, you can see on Dune that all addresses have the same number of transaction
 <img width="956" alt="Capture d’écran 2024-05-27 à 22 20 13" src="https://github.com/wardell11/sybil-report/assets/170775813/fe0a514e-b481-42f6-ab5e-0177258b702e">
 
 Same CEX deposit address, cluster, and exact same pattern of interaction with L0 with same amount to farm the airdrop. This is a clear sybil cluster.
+
+# cluster 3
+The first 12 addresses of the cluster share the same Binance deposit address 0x6ff197905601F6b8F59e3F71849e6a060D1dfd97. The rest are linked to numerous addresses of the cluster, multiple times.
+```
+0x1ded3c31ec30a1c651c7d1eca0f7db3ad76d15ef
+0x1da5407a15e082e5f538e1c9f1bf3dcf812d1e15
+0x6798a4be28e12b6346466f60f7e94c9becbf8fe2
+0x8bea8c2f05917b493e1d1747cafff272f9545ea5
+0x5b84cfb2660d510674a8b6ccd01659d2521fd5c1
+0x925c8c407f1a3d988a06a45015256e49831a081b
+0x8afe0a71682ece04af3b64e425c9e01f6712a6c4
+0xd5565d3a05b2290e4f4cb9e2cc0e272f1a888b67
+0xa8d66237c06b495e6597b4cb7cffc822b391ea2c
+0x3450a682e5afba4e05d796584bc6cad9d3eeb99c
+0xe2f51aac758d19b34877f44af1b8f998e1e265b1
+0x9b02750d4c5348afbc52d83c3c3be8fc427fb879
+0x25b3bcc2d83567561d1813bd4a3703bed5832254
+0x0e030bad7f9e779ffc53d45c0748d6741ca567ad
+0xeb6112a29cd11918885dddbd7f3db7404642ea38
+0x9f41bff8678ad97ff99642e60aca011bbb88f60f
+0x2ac2c30912bc44756411a6ab971f073d139819a9
+0x9f38c4436a29e77e0a57cda343664f13d1c0fdf7
+0xd1300820518f362180c747cbeeeb11e443bb8cdf
+0x7a32c64265209562c004c8298e7ee0edcff07c83
+```
+<img width="605" alt="Capture d’écran 2024-05-27 à 23 41 46" src="https://github.com/wardell11/sybil-report/assets/170775813/da7ddd8e-39b0-4bf0-81b9-91a9fc460a5a">
+The addresses have the same on-chain activity. For example, their L0 interaction follow the same pattern. They interact with the same dapps in the same order in the same timespans. 
+As you can see : deposit 100$ + add liquidity 100$ on Stargate with all cluster addresses. 
+
+0x8bea8c2f05917b493e1d1747cafff272f9545ea5
+<img width="979" alt="Capture d’écran 2024-05-27 à 23 55 34" src="https://github.com/wardell11/sybil-report/assets/170775813/dbfb21cb-1fc0-4216-9d07-01a30471cc6b">
+
+0x925c8c407f1a3d988a06a45015256e49831a081b
+<img width="960" alt="Capture d’écran 2024-05-28 à 00 01 22" src="https://github.com/wardell11/sybil-report/assets/170775813/dae4330d-c0fe-4378-b252-e2edeb05b692">
+
+0xa8d66237c06b495e6597b4cb7cffc822b391ea2c
+<img width="971" alt="Capture d’écran 2024-05-28 à 00 02 47" src="https://github.com/wardell11/sybil-report/assets/170775813/e0760655-5bdc-473d-b26c-87750c4ebd24">
+
+0x1da5407a15e082e5f538e1c9f1bf3dcf812d1e15
+<img width="966" alt="Capture d’écran 2024-05-28 à 00 03 53" src="https://github.com/wardell11/sybil-report/assets/170775813/4efaf535-757c-4030-abc6-afb1c5040641">
+
+0x1ded3c31ec30a1c651c7d1eca0f7db3ad76d15ef
+<img width="957" alt="Capture d’écran 2024-05-28 à 00 04 55" src="https://github.com/wardell11/sybil-report/assets/170775813/050a0f17-02fa-48c5-933a-d7859ca250a0">
+
+0x5b84cfb2660d510674a8b6ccd01659d2521fd5c1
+<img width="964" alt="Capture d’écran 2024-05-28 à 00 06 47" src="https://github.com/wardell11/sybil-report/assets/170775813/e40d667d-bade-443c-af97-6bc4732710c6">
+
+ We can see on Dune than all addresse have around 40-50 transactions with a total amount of 18.000$ and created 610 ago.
+ <img width="964" alt="Capture d’écran 2024-05-28 à 00 06 47" src="https://github.com/wardell11/sybil-report/assets/170775813/8eea0fff-94fa-41bb-8101-536c9a43b231">
+
